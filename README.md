@@ -1,25 +1,25 @@
 Required Tools:
 
-Tensorflow
+    Tensorflow
 
-keras
+    keras
 
-flask
+    flask
 
-pandas
+    pandas
 
-scikit-learn
+    scikit-learn
 
-numpy
+    numpy
 
-datetime
+    datetime
 
 For Model Development:
 
-Seaborn
+    Seaborn
 
-numpy
+    numpy
 
-matplotlib
+    matplotlib
 
-matplotlib.pyplot
+    matplotlib.pyplot
